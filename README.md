@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### 🛠 My Projects
 * 📱 [**iOS 3-6 Activation Skip**](https://github.com/AstreelX/new-lockdownd-with-fixed-itunes)\
 Fixed iTunes sync features.
-* 💻 [**My H310M Hackintosh Configuration**]([https://github.com](https://github.com/polin0m/h310m-hackintosh)\
+* 💻 [**My H310M Hackintosh Configuration**](https://github.com/polin0m/h310m-hackintosh)\
 My personal OpenCore configuration for stable macOS operation.
 
 ### 🌟 Repositories I Highly Respect
@@ -45,7 +45,7 @@ Projects that deserve special attention and are highly valued in the community:
 ### 🛠 Мои проекты
 * 📱 [**Пропуск активации iOS 3-6**](https://github.com/AstreelX/new-lockdownd-with-fixed-itunes)\
   Новые патченные файлы lockdown для обхода активации iOS 3-6 с исправленной синхронизацией в iTunes.
-* 💻 [**Мой Хакинтош конфиг для H310M**]([https://github.com](https://github.com/polin0m/h310m-hackintosh)\
+* 💻 [**Мой Хакинтош конфиг для H310M**](https://github.com/polin0m/h310m-hackintosh)\
   Моя личная конфигурация OpenCore для стабильной работы macOS.
 
 ### 🌟 Репозитории, заслуживающие внимания

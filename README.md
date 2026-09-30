@@ -36,7 +36,7 @@ Projects that deserve special attention and are highly valued in the community:
 * 🛠 [**Legacy iOS Kit**](https://github.com/LukeZGD/Legacy-iOS-Kit)\
   The ultimate tool for doing every imaginable thing with legacy Apple products.
 * 🔒 [**vless-core-app**](https://github.com/notfence/vless-core-app)\
-  An iOS 6–10 application and root daemon enabling full-device VLESS and SOCKS5 routing.
+  An iOS 5-14 application and root daemon enabling full-device VLESS and SOCKS5 routing.
 * 🌐 [**AstNet**](https://github.com/AstNet)\
   AstNet — a fast and secure routing service, working in vless-core-app.
 ---
@@ -54,6 +54,6 @@ Projects that deserve special attention and are highly valued in the community:
 * 🛠 [**Legacy iOS Kit**](https://github.com/LukeZGD/Legacy-iOS-Kit)\
   Ультимативный инструмент для работы со старыми устройствами Apple.
 * 🔒 [**vless-core-app**](https://github.com/notfence/vless-core-app)\
-  Приложение для iOS 6–10, реализующее полноценную маршрутизацию VLESS.
+  Приложение для iOS 5-14, реализующее полноценную маршрутизацию VLESS.
 * 🌐 [**AstNet**](https://github.com/AstNet)\
   AstNet — сервис маршрутизации сетевого трафика с низкой задержкой, работает в vless-core-app.
